@@ -1,6 +1,7 @@
 Lung Opacities Detection using Auxiliary Deep Generative Models
 
-Overview of code -> go to main.ipynb
+Go though code in main.ipynb for a overview.
+Read paper for more details.
 
 In order to run the code, download data set at:
 https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
